@@ -11,19 +11,21 @@
     "license": "UNLICENSED",
     "private": true,
     "scripts": {
-            "dev-server": "encore dev-server",
-            "dev": "encore dev",
-            "watch": "encore dev --watch",
-            "build": "encore production",
-            "heroku-postbuild": "encore production"
-  },
+        "dev-server": "encore dev-server",
+        "dev": "encore dev",
+        "watch": "encore dev --watch",
+        "build": "encore production",
+        "heroku-postbuild": "encore production"
+    },
     "dependencies": {
         "@coreui/coreui": "^3.4.0",
         "@coreui/icons": "^1.0.1",
         "@popperjs/core": "^2.5.4",
         "bootstrap": "^4.5.3",
+        "bootstrap-icons": "^1.5.0",
         "font-awesome-webpack": "0.0.5-beta.2",
         "jquery": "^3.5.1",
+        "jquery-bootgrid": "^1.3.1",
         "perfect-scrollbar": "^1.5.0",
         "popper.js": "^1.16.1",
         "stripe": "^8.148.0"
