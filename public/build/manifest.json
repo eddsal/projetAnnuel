@@ -1,0 +1,21 @@
+{
+  "build/admin.css": "/build/admin.css",
+  "build/admin.js": "/build/admin.js",
+  "build/agence.js": "/build/agence.js",
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/security.css": "/build/security.css",
+  "build/security.js": "/build/security.js",
+  "build/vendors~admin.css": "/build/vendors~admin.css",
+  "build/vendors~admin.js": "/build/vendors~admin.js",
+  "build/vendors~admin~agence.css": "/build/vendors~admin~agence.css",
+  "build/vendors~admin~agence.js": "/build/vendors~admin~agence.js",
+  "build/vendors~admin~agence~app~security.js": "/build/vendors~admin~agence~app~security.js",
+  "build/vendors~admin~app~security.css": "/build/vendors~admin~app~security.css",
+  "build/vendors~admin~app~security.js": "/build/vendors~admin~app~security.js",
+  "build/vendors~agence~app.js": "/build/vendors~agence~app.js",
+  "build/vendors~app.js": "/build/vendors~app.js",
+  "build/fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d": "/build/fonts/bootstrap-icons.94eeade1.woff",
+  "build/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d": "/build/fonts/bootstrap-icons.dfd0ea12.woff2"
+}

@@ -1,0 +1,17 @@
+.bootgrid-footer li.active a {
+    color: #fff;
+    background-color: #321fdb;
+    border-color: #321fdb;
+}
+.bootgrid-footer li.disabled a {
+    color: #777;
+    cursor: not-allowed;
+    background-color: #fff;
+    border-color: #ddd;
+}
+.bootgrid-footer li a {
+    cursor: pointer;
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vc3R5bGUuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksV0FBVztJQUNYLHlCQUF5QjtJQUN6QixxQkFBcUI7QUFDekI7QUFDQTtJQUNJLFdBQVc7SUFDWCxtQkFBbUI7SUFDbkIsc0JBQXNCO0lBQ3RCLGtCQUFrQjtBQUN0QjtBQUNBO0lBQ0ksZUFBZTtBQUNuQiIsImZpbGUiOiJhZG1pbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYm9vdGdyaWQtZm9vdGVyIGxpLmFjdGl2ZSBhIHtcbiAgICBjb2xvcjogI2ZmZjtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzIxZmRiO1xuICAgIGJvcmRlci1jb2xvcjogIzMyMWZkYjtcbn1cbi5ib290Z3JpZC1mb290ZXIgbGkuZGlzYWJsZWQgYSB7XG4gICAgY29sb3I6ICM3Nzc7XG4gICAgY3Vyc29yOiBub3QtYWxsb3dlZDtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmO1xuICAgIGJvcmRlci1jb2xvcjogI2RkZDtcbn1cbi5ib290Z3JpZC1mb290ZXIgbGkgYSB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ==*/

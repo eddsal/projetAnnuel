@@ -1,0 +1,58 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors~admin~agence~app~security.js",
+        "/build/vendors~admin~app~security.js",
+        "/build/vendors~agence~app.js",
+        "/build/vendors~app.js",
+        "/build/app.js"
+      ],
+      "css": [
+        "/build/vendors~admin~app~security.css",
+        "/build/app.css"
+      ]
+    },
+    "security": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors~admin~agence~app~security.js",
+        "/build/vendors~admin~app~security.js",
+        "/build/security.js"
+      ],
+      "css": [
+        "/build/vendors~admin~app~security.css",
+        "/build/security.css"
+      ]
+    },
+    "agence": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors~admin~agence~app~security.js",
+        "/build/vendors~admin~agence.js",
+        "/build/vendors~agence~app.js",
+        "/build/agence.js"
+      ],
+      "css": [
+        "/build/vendors~admin~agence.css"
+      ]
+    },
+    "admin": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors~admin~agence~app~security.js",
+        "/build/vendors~admin~app~security.js",
+        "/build/vendors~admin~agence.js",
+        "/build/vendors~admin.js",
+        "/build/admin.js"
+      ],
+      "css": [
+        "/build/vendors~admin~app~security.css",
+        "/build/vendors~admin~agence.css",
+        "/build/vendors~admin.css",
+        "/build/admin.css"
+      ]
+    }
+  }
+}
